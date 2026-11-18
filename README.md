@@ -19,8 +19,8 @@ A command-line tool that fetches Pokémon data from the [PokeAPI](https://pokeap
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/souravdey0311/pokemon-lookup.git
-   cd pokemon-lookup
+   git clone https://github.com/souravdey0311/MyPokeAPIScraper-Project.git
+   cd MyPokeAPIScraper-Project
    ```
 2. Install the required library:
    ```bash
